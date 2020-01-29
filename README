@@ -1,0 +1,5 @@
+A slide package written in LaTex, for eecs 498.
+- p1.pdf is a compiled example.
+- src/beamerthemeUM498.sty defines the package.
+- src/presentation.tex is to be compiled.
+- compile using `pdflatex`, recommend `overleaf`.
